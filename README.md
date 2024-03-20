@@ -1,5 +1,5 @@
 # DIR
-This is anonymous code for DIR. Now, we only release the infrence code. We will release the whole training code as soon as the paper is accepted.
+This is official code for DIR. Now, we only release the infrence code. We will release the whole training code as soon as the paper is accepted. Any problems feel free to contact me via email, maofangyuan23s@ict.ac.cn.
 
 ![overview](overview.png)
 
